@@ -9,7 +9,9 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
-```.selector {
+```
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-}```
+}
+```
